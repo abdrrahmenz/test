@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP Synchronize</string>
+    <string name="accessibility_title">MP Access</string>
+    <string name="accessibility_service_description">please activate to automate MP</string>
+</resources>
